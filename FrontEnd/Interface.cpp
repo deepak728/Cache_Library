@@ -23,7 +23,7 @@ int main(){
                 nActivity->setCacheType(LRUCache);
             else if (cmd1=="LFU")
                 nActivity->setCacheType(LFUCache);
-            else if (cmd1=="LRU")
+            else
                 nActivity->setCacheType(CustomCache);
 
         } else if (command=="Add"){

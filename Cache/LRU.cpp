@@ -21,6 +21,7 @@ void LRU::remove(string key){
     }
     nList.erase(nLRUMap[key]);
     nLRUMap.erase(key);
+    nCacheDAO->removeEntry(key);
 }
 
 void LRU::moveEntryToFront(string key){

@@ -7,7 +7,6 @@
 class Custom:public Cache, public Evict{
     private:
         CacheDAO* nCacheDAO = new CacheDAO();
-        list<string> nList;
     public:
         void insert(string key,string value);
         void remove(string key);
