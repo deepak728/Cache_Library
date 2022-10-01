@@ -1,0 +1,9 @@
+Entry inserted to Database key1 value1
+Entry inserted to Database key2 value2
+Entry inserted to Database key3 value3
+key1 Entry is Evicted from the DB
+Entry inserted to Database key4 value4
+key2 Entry is Evicted from the DB
+Entry inserted to Database key5 value5
+Value of Key4 is Key Not present
+

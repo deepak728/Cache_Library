@@ -1,0 +1,7 @@
+Set_Cache FIFO
+Add key1 value1
+Add key2 value2
+Add key3 value3
+Add key4 value4
+Add key5 value5
+Get_Value Key4
