@@ -1,5 +1,5 @@
 # Cache_Library
-CacheLibrary Supporting FIFO, LRU, LFU and Custom cache  
+CacheLibrary supporting FIFO, LRU, LFU and Custom eviction method.
 
 
 Navigate to project folder and run "g++ -std=c++11 -g ./**/*.cpp" to complie.<br/>
